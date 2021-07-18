@@ -1,4 +1,4 @@
-# virtual-assistant-Desktop-
+# virtual-assistant-Desktop- For Windows
 
 The project aims to develop a personal-assistant for windowsbased systemsJarvis draws its inspiration from virtual assistants
 like Cortana for Windows, and Siri for iOS. It has been designed
