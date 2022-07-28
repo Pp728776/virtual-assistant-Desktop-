@@ -67,3 +67,10 @@ receiver. He should input Send mail, after which a form
 will be displayed. Fill the form with the required details
 and click on the send mail button.
 And it can also perform many functions like Corona update, Bank Information,Air Quality of any city,Sunrise & Sunset Timing of any city and Many more.
+# Here are some output
+a) Sunrise and sunset time for different cities.
+![WhatsApp Image 2022-07-28 at 1 41 13 PM](https://user-images.githubusercontent.com/63899643/181458091-4eb4573a-e4a8-409e-8d80-88bc36b06f08.jpeg)
+t
+b) Bank Information of any bank with the Ifsc code
+![WhatsApp Image 2022-07-28 at 1 41 14 PM](https://user-images.githubusercontent.com/63899643/181458135-bfabfc1f-e077-4997-aed9-a4f43ef2c064.jpeg)
+
